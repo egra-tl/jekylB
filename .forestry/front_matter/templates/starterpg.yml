@@ -10,3 +10,7 @@ fields:
   description: This text starts on page
   config:
     required: true
+- type: tag_list
+  name: starter_tag
+  label: Starter Tag
+  description: tag assorted
