@@ -1,0 +1,12 @@
+---
+label: StarterPg
+hide_body: false
+is_partial: false
+fields:
+- type: boolean
+- type: text
+  name: starter
+  label: Starter
+  description: This text starts on page
+  config:
+    required: true
