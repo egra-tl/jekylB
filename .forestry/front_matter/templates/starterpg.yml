@@ -14,3 +14,7 @@ fields:
   name: starter_tag
   label: Starter Tag
   description: tag assorted
+- type: list
+  name: starter_list
+  label: Starter List
+  description: Starter list assortment
